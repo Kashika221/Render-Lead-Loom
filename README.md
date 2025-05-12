@@ -2,8 +2,6 @@
 
 Render-Lead-Loom is a web-based lead management system designed to streamline the process of capturing, tracking, and converting leads into customers. Built using Python and HTML, this application provides an intuitive interface for managing customer relationships effectively.
 
-## Demo
-
 ## Pitch Document
 
 For a sample output of the project, refer to the [pitch.pdf](pitch.pdf) included in the repository.
